@@ -1,4 +1,4 @@
-# Download-Link-timed
+# Download Link timer
 
 One of the quickest and safest method available right now timed to link disposable
 
